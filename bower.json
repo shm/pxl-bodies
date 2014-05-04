@@ -1,0 +1,31 @@
+{
+  "name": "pxl-bodies",
+  "version": "0.0.1",
+  "description": "generating pxl-art with d3",
+  "main": "index.html",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "d3",
+    "pixel"
+  ],
+  "authors": [
+    "shm"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "d3": "~3.4.6",
+    "tinycolor": "~0.9.17",
+    "noisejs": "*",
+    "fabric": "~1.4.5"
+  }
+}
